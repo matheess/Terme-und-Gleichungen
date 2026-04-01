@@ -1,4 +1,4 @@
 # Bruchterme
-Bruchterme
-
-[KW 16](KW16_bruchterme_aufgaben.html)
+[Bruchterme](Bruchterme/README.md)
+# Lineare Gleichungen
+[Lineare Gleichungen](Lineare%20Gleichungen/README.md)
